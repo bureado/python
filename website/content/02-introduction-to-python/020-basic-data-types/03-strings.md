@@ -62,7 +62,7 @@ Nina
 
 There are several types of string formatting in Python.
 
-If you're using Python 3.7 and above (remember to check with `python --version` on the command line) you can use my favorite type of string formatting, and the one I'll be using for the course called f-strings.
+If you're using Python 3.7 and above (remember to check with `python --version` on the command line) you can use my favorite type of string formatting, and the one I'll be using for the course called **f-strings**.
 
 ```python
 >>> name = "Nina"
